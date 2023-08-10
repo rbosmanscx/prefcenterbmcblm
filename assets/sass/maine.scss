@@ -1,10 +1,10 @@
-@import 'libs/vars';
-@import 'libs/functions';
-@import 'libs/mixins';
-@import 'libs/vendor';
-@import 'libs/breakpoints';
-@import 'libs/html-grid';
-@import 'fontawesome-all.min.css';
+@import url('https://github.com/rbosmanscx/prefcenterbmcblm/blob/main/assets/sass/libs/_vars.scss');
+@import url('https://github.com/rbosmanscx/prefcenterbmcblm/blob/main/assets/sass/libs/_functions.scss');
+@import url('https://github.com/rbosmanscx/prefcenterbmcblm/blob/main/assets/sass/libs/_mixins.scss');
+@import url('https://github.com/rbosmanscx/prefcenterbmcblm/blob/main/assets/sass/libs/_vendor.scss');
+@import url('https://github.com/rbosmanscx/prefcenterbmcblm/blob/main/assets/sass/libs/_breakpoints.scss');
+@import url('https://github.com/rbosmanscx/prefcenterbmcblm/blob/main/assets/sass/libs/_html-grid.scss');
+@import url('https://github.com/rbosmanscx/prefcenterbmcblm/blob/main/assets/css/fontawesome-all.min.css');
 
 // Breakpoints.
 
@@ -33,31 +33,31 @@
 
 // Base.
 
-	@import 'base/reset';
-	@import 'base/page';
-	@import 'base/typography';
+	@import url('https://github.com/rbosmanscx/prefcenterbmcblm/blob/main/assets/sass/base/_reset.scss');
+	@import url('https://github.com/rbosmanscx/prefcenterbmcblm/blob/main/assets/sass/base/_page.scss');
+	@import url('https://github.com/rbosmanscx/prefcenterbmcblm/blob/main/assets/sass/base/_typography.scss');
 
 // Component.
 
-	@import 'components/row';
-	@import 'components/box';
-	@import 'components/button';
-	@import 'components/form';
-	@import 'components/icon';
-	@import 'components/image';
-	@import 'components/list';
-	@import 'components/actions';
-	@import 'components/icons';
-	@import 'components/section';
-	@import 'components/table';
-	@import 'components/features';
-	@import 'components/statistics';
-	@import 'components/spotlight';
+	@import url('https://github.com/rbosmanscx/prefcenterbmcblm/blob/main/assets/sass/components/_row.scss');
+	@import url('https://github.com/rbosmanscx/prefcenterbmcblm/blob/main/assets/sass/components/_box.scss');
+	@import url('https://github.com/rbosmanscx/prefcenterbmcblm/blob/main/assets/sass/components/_button.scss');
+	@import url('https://github.com/rbosmanscx/prefcenterbmcblm/blob/main/assets/sass/components/_form.scss');
+	@import url('https://github.com/rbosmanscx/prefcenterbmcblm/blob/main/assets/sass/components/_icon.scss');
+	@import url(https://github.com/rbosmanscx/prefcenterbmcblm/blob/main/assets/sass/components/_image.scss');
+	@import url('https://github.com/rbosmanscx/prefcenterbmcblm/blob/main/assets/sass/components/_list.scss');
+	@import url('https://github.com/rbosmanscx/prefcenterbmcblm/blob/main/assets/sass/components/_actions.scss');
+	@import url('https://github.com/rbosmanscx/prefcenterbmcblm/blob/main/assets/sass/components/_icons.scss');
+	@import url('https://github.com/rbosmanscx/prefcenterbmcblm/blob/main/assets/sass/components/_section.scss');
+	@import url('https://github.com/rbosmanscx/prefcenterbmcblm/blob/main/assets/sass/components/_table.scss');
+	@import url('components/features'https://github.com/rbosmanscx/prefcenterbmcblm/blob/main/assets/sass/components/_features.scss);
+	@import url('https://github.com/rbosmanscx/prefcenterbmcblm/blob/main/assets/sass/components/_statistics.scss');
+	@import url('https://github.com/rbosmanscx/prefcenterbmcblm/blob/main/assets/sass/components/_spotlight.scss');
 
 // Layout.
 
-	@import 'layout/header';
-	@import 'layout/nav';
-	@import 'layout/main';
-	@import 'layout/footer';
-	@import 'layout/wrapper';
+	@import url('https://github.com/rbosmanscx/prefcenterbmcblm/blob/main/assets/sass/layout/_header.scss');
+	@import url('_nav.scss	https://github.com/rbosmanscx/prefcenterbmcblm/blob/main/assets/sass/layout/_nav.scss');
+	@import url('https://github.com/rbosmanscx/prefcenterbmcblm/blob/main/assets/sass/layout/_main.scss');
+	@import url('https://github.com/rbosmanscx/prefcenterbmcblm/blob/main/assets/sass/layout/_footer.scss');
+	@import url('https://github.com/rbosmanscx/prefcenterbmcblm/blob/main/assets/sass/layout/_wrapper.scss');
